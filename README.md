@@ -1,2 +1,2 @@
 # Hybris123
-hybris practice
+This is for practice, just to get started with hybris.
